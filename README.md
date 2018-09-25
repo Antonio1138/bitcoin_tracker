@@ -8,8 +8,10 @@ Aplicación móvil que nos matiene informado en tiempo real sobre el precio del 
 
 ## Motivación
 La aplicación ha sido desarrollada para poner en práctica el manejo de:
-- API´s
+- API´s <img src="https://github.com/Antonio1138/bitcoin_tracker/blob/master/api.png">
+https://apiv2.bitcoinaverage.com/
 - REST
+
 
 ## Creado con
 - [Android Studio](https://developer.android.com/studio/)
